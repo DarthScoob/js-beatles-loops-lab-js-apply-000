@@ -38,10 +38,9 @@ function iLoveTheBeatles(number) {
   let x = [];
   do {
      x.push(`I love the Beatles!`);
-     number++
+     number++;
    } while (number < 15); {
-      
-     return(x);
+      return x;
   }
 }
   
