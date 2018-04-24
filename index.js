@@ -34,7 +34,7 @@ function johnLennonFacts(facts) {
   return john; 
 } 
 
-function iLoveTheBeatles(n) {
+function iLoveTheBeatles(number) {
   let x = [];
   do {
      newArray.push(`I love the Beatles!`);
